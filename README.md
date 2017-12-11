@@ -1,9 +1,19 @@
 # Machine_learning_classifier_model
 
+## Classifier used: 
+- Logistic Regression Classifier Model
+- Linear Discriminant Classifier Model
+- Tree Classifier Model
+- KNeighbors Classifier Model
+- SVC Classifier Model
+- LinearSVC Classifier Model
+
+
+## Start Program with :
 ```
 python2 main.py
 ```
-
+## Result 
 ```
 ------------------Logistic Regression Classifier Model------------------
 test_target:
